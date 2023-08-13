@@ -1,0 +1,261 @@
+{
+    "selectedTemplate": 1,
+    "headings": {
+        "work": "Experience",
+        "education": "Education",
+        "skills": "Skills",
+        "projects": "Projects",
+        "awards": "Awards"
+    },
+    "basics": {
+        "name": "Vibhanshu Jain",
+        "email": "vibhanshu7ain@gmail.com",
+        "phone": "(312)-776-4213",
+        "location": {
+            "address": "San Fransisco"
+        },
+        "website": "someLinkToPorfolio.com"
+    },
+    "education": [
+        {
+            "location": "Chicago, Illinois",
+            "area": "Computer Science",
+            "startDate": "2021",
+            "endDate": "2023",
+            "gpa": "3.6",
+            "institution": "Illinois Institute of Technology",
+            "studyType": "Masters "
+        },
+        {
+            "institution": "Ambedkar Institute of Technology",
+            "location": "Delhi, India",
+            "studyType": "Bachelors in Technology",
+            "area": "Electronics and Communication Engineering",
+            "gpa": "3.4",
+            "startDate": "2011",
+            "endDate": "2015"
+        }
+    ],
+    "work": [
+        {
+            "location": "Dallas,TX, USA",
+            "position": "iOS Developer",
+            "website": "",
+            "startDate": "2022",
+            "endDate": "2022",
+            "highlights": [
+                "◦ Utilized agile project management methodologies, including Scrum and Kanban, to successfully plan and deliver software releases on time and within budget.",
+                " ◦ Improved the CI/CD process via AppCircle to automate the delivery pipeline leading to a 40% reduction in deployment time and increased development efficiency",
+                "◦ Designed and implemented implemented a rating and feedback system leading to an app store rating increase from 3.4 to 4.5.",
+                "◦ Introduced trunk-based development with feature flagging via Launch Darkly and piloted the project."
+            ],
+            "company": "Veryable"
+        },
+        {
+            "highlights": [
+                "◦ Incepted multiple production ready apps from scratch to develop end to end solutions such as xShowroom (Lead Management Solution), vCare Blue (Inventory and service request app for cooling appliance brand), Face Recognition based attendance and an internal employee facing app to track expenses and time sheets.",
+                "Served as a technical lead, overseeing the change requests and maintenance of a high-performance CRM application, serving over 100k monthly users with a 99.2% uptime record.",
+                "Collaborated with cross-functional teams, including product managers SME’s and UX designers, to deliver high-quality software solutions on time and within budget",
+                "Led a team of developers to implement a Server Driven User Interface, resulting in a 3 day reduction in 90% application deployments.",
+                "Implemented a code review process and conducted regular knowledge sharing sessions, significantly improving code quality and reducing post-release defects by a huge margin.",
+                "Actively participated in Agile development processes, daily stand-ups and sprint planning meetings to drive project progress.",
+                "Instituted process improvements by identifying and resolving synchronization issues between the sub systems and the external systems which reduced the current customer order cycle time by 30% and decreased the failure rate of orders from 11% to 4%.",
+                "◦ Organized technical talks, mentored junior developers, promoting best practices, knowledge sharing, and continuous learning, resulting in improved performance, facilitated team members’ growth and promoted innovation within the team.",
+                "◦ Conducted bug bashing sessions, identifying and resolving critical issues and reducing customer support requests by 30%. ◦ Resolved challenging business issues while assuring the product’s scalability, security, and performance.",
+                "◦ Negotiated and optimized cost proposals for resource utilizations and technical change requests, paving the way for future growth and ongoing project improvements.",
+                "Restructured a monolithic MVC codebase into smaller feature modules and components and refactored and migrated legacy Objective C codebase to Swift, to keep the project up to date with technology.",
+                "◦ Optimized the product performance through multi threaded programming, concurrency, memory management by up to 40%."
+            ],
+            "company": "Cubastion",
+            "position": "Senior Consultant - iOS Developer and Tech Lead",
+            "location": "Delhi, India and Los Angeles,CA, USA",
+            "startDate": "2015",
+            "endDate": "2021"
+        },
+        {
+            "highlights": [
+                "Points",
+                "Points"
+            ],
+            "company": "Project: Siebel CRM Server Development - Mercedez Benz",
+            "position": "Associate Consultant: Siebel Developer",
+            "location": "Cubastion Consulting Pvt Ltd",
+            "startDate": "2015",
+            "endDate": "2016"
+        },
+        {
+            "highlights": [
+                "Points",
+                "Points"
+            ],
+            "company": "Project: Siebel CRM, AIA, BRM Server Migration - Hyundai Motors America",
+            "position": "Associate Consultant: Siebel Developer",
+            "location": "Cubastion Consulting Pvt Ltd",
+            "startDate": "2015",
+            "endDate": "2016"
+        },
+        {
+            "highlights": [
+                "Points",
+                "Points"
+            ],
+            "company": "Project: xShowroom",
+            "position": "iOS Developer",
+            "location": "Cubastion Consulting Pvt Ltd",
+            "startDate": "2016",
+            "endDate": "2017"
+        },
+        {
+            "highlights": [
+                "Points",
+                "Points"
+            ],
+            "company": "Project: xShowroom 2nD Version",
+            "position": "iOS Developer",
+            "location": "Cubastion Consulting Pvt Ltd",
+            "startDate": "2018",
+            "endDate": "2019"
+        },
+        {
+            "highlights": [
+                "Points",
+                "Points"
+            ],
+            "company": "Project: voltas vCareBlue",
+            "position": "iOS Developer",
+            "location": "Cubastion Consulting Pvt Ltd",
+            "startDate": "2017",
+            "endDate": "2018"
+        },
+        {
+            "highlights": [
+                "Points",
+                "Points"
+            ],
+            "company": "Project: Hyundai Motors America",
+            "position": "Tech Lead, Engineering manager Billing Manager - Tech Lead and ",
+            "location": "Cubastion Consulting Pvt Ltd",
+            "startDate": "2019",
+            "endDate": "2021"
+        },
+        {
+            "highlights": [
+                "Points",
+                "Points"
+            ],
+            "company": "Project: Face Recognition Attendance System",
+            "position": "iOS Developer",
+            "location": "Cubastion Consulting Pvt Ltd",
+            "startDate": "2019",
+            "endDate": "2020"
+        },
+        {
+            "highlights": [
+                "Points",
+                "Points"
+            ],
+            "company": "Project: Goal",
+            "position": "JobTitle",
+            "location": "ComapnyNameAndLocation",
+            "startDate": "2027",
+            "endDate": "2030"
+        }
+    ],
+    "skills": [
+        {
+            "level": "",
+            "keywords": [
+                "Swift",
+                "Objective C",
+                "SwiftUI",
+                "Siebel VB",
+                "PHP",
+                "Java",
+                "Python",
+                ".net",
+                "React Native",
+                "Combine",
+                "SwiftUI",
+                "SwiftUI",
+                "SwiftUI",
+                "SwiftUI",
+                "SwiftUI"
+            ],
+            "name": "Programing languages"
+        },
+        {
+            "keywords": [
+                "xCode",
+                "Jira",
+                "Instruments",
+                "CocoaPods",
+                "PostgresSQL",
+                "GIT",
+                "MongoDB",
+                "Figma",
+                "Zendesk",
+                "Siebel CRM",
+                "Firebase",
+                "Instruments",
+                "Foundation",
+                "UIKit",
+                "core IOS frameworks",
+                "Swift Concurrency",
+                "Composable Architecture",
+                "App Store Connect",
+                "Crashlytics",
+                "AFNetworking",
+                "Google Maps"
+            ],
+            "name": "Tools"
+        },
+        {
+            "keywords": [
+                "singleton",
+                "KVO",
+                "MVC",
+                "MVVM",
+                "VIPER"
+            ],
+            "name": "Design Patterns"
+        },
+        {
+            "keywords": [
+                "OSX",
+                "Windows",
+                "RHEL(Red Hat Enterprise Linux)",
+                "AIX (UNIX)",
+                "Ubuntu"
+            ],
+            "name": "OS"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Name",
+            "description": "Description",
+            "url": "linkToProject.com",
+            "keywords": [
+                "ToolUsed1",
+                "ToolUsed2"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Name",
+            "date": "Date of award",
+            "awarder": "Company Name",
+            "summary": "Summary of award"
+        }
+    ],
+    "sections": [
+        "templates",
+        "profile",
+        "education",
+        "work",
+        "skills",
+        "projects",
+        "awards"
+    ]
+}

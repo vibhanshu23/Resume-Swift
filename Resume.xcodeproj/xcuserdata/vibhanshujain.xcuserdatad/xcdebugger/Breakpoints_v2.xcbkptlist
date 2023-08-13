@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2466208C-1DCC-471E-A1DD-399CB2116505"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1885F259-E9EC-410E-9226-7FE304B2D552"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Resume/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1885F259-E9EC-410E-9226-7FE304B2D552 - 372a1c49f3b23f2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Text&gt; in Resume.HomeView.body.getter : some"
+                  moduleName = "Resume"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vibhanshujain/Desktop/GitHub/Resume/Resume/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "2488">
+               </Location>
+               <Location
+                  uuid = "1885F259-E9EC-410E-9226-7FE304B2D552 - 15e03c37e60c8922"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, Resume.ResumeListView&gt;, SwiftUI.Text&gt; in Resume.HomeView.body.getter : some"
+                  moduleName = "Resume"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vibhanshujain/Desktop/GitHub/Resume/Resume/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2A325CE-BA14-4699-840C-A6D3662D9CE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Resume/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D2A325CE-BA14-4699-840C-A6D3662D9CE2 - 372a1c49f3b23fcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Text&gt; in Resume.HomeView.body.getter : some"
+                  moduleName = "Resume"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vibhanshujain/Desktop/GitHub/Resume/Resume/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+               <Location
+                  uuid = "D2A325CE-BA14-4699-840C-A6D3662D9CE2 - 606228a4fd806d34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Text&gt; in Resume.HomeView.body.getter : some"
+                  moduleName = "Resume"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vibhanshujain/Desktop/GitHub/Resume/Resume/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "D2A325CE-BA14-4699-840C-A6D3662D9CE2 - 15e03c37e60c8987"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, Resume.ResumeListView&gt;, SwiftUI.Text&gt; in Resume.HomeView.body.getter : some"
+                  moduleName = "Resume"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vibhanshujain/Desktop/GitHub/Resume/Resume/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3C37EF3-E7D9-4EFB-AA46-A261771A16AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Resume/ResumeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "loadResume()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3C37EF3-E7D9-4EFB-AA46-A261771A16AC - 9e8a8ac345128491"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 @Swift.MainActor () -&gt; () in Resume.ResumeViewModel.loadResume() -&gt; ()"
+                  moduleName = "Resume"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vibhanshujain/Desktop/GitHub/Resume/Resume/ResumeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "B3C37EF3-E7D9-4EFB-AA46-A261771A16AC - 86a35ef535cb821a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Resume.ResumeViewModel.loadResume() -&gt; ()"
+                  moduleName = "Resume"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vibhanshujain/Desktop/GitHub/Resume/Resume/ResumeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
